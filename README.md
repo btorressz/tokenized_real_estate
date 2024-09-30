@@ -59,7 +59,7 @@ This project implements a Tokenized Real Estate program on the Solana blockchain
   Rust, Typescript Anchor, Solana, Solana Playground ide
 
   ## License
- **MIT License**
+   **MIT License**
 
     
 
