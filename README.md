@@ -55,6 +55,12 @@ This project implements a Tokenized Real Estate system on the Solana blockchain 
 - **InvalidSalePrice**: Thrown when the sale price provided does not match the escrow's sale price.
 - **DivisionByZero**: Thrown when an attempt is made to divide rent by zero tokens.
 
+  ## Tech Stack
+  Rust, Typescript Anchor, Solana, Solana Playground ide,
+
+  ## License
+ **MIT License**
+
     
 
    
