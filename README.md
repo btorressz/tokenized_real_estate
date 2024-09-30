@@ -7,7 +7,9 @@ This project implements a Tokenized Real Estate system on the Solana blockchain 
 1. Property Initialization:
 - Create a new tokenized property with metadata (location, value, off-chain metadata URI).
 - Property tokens (SPL tokens) represent fractional ownership.
-2. 
+2. Minting Property Shares:
+  - Mint SPL tokens that represent property shares to an owner’s token account.
+3.
    
    
 
