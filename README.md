@@ -9,6 +9,7 @@ This project implements a Tokenized Real Estate system on the Solana blockchain 
 - Property tokens (SPL tokens) represent fractional ownership.
 2. Minting Property Shares:
   - Mint SPL tokens that represent property shares to an owner’s token account.
+    
 3.Transferring Property Shares:
   - Allows property share (SPL tokens) transfers between accounts.
 
